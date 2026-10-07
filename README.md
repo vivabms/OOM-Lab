@@ -1,2 +1,2 @@
-# OOM-LaB
+# OOM-Lab
 Screenshots of StarUML projects.
